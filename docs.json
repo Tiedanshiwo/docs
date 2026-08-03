@@ -21,6 +21,10 @@
     "groups": [
       {
         "group": "Getting Started",
+        "pages": []
+      },
+      {
+        "group": "Getting Started",
         "pages": [
           "quickstart"
         ]
