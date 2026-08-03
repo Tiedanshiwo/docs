@@ -34,6 +34,13 @@
     },
     "groups": [
       {
+        "group": "GearUpHiker",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
         "group": "Getting Started",
         "pages": [
           ""
