@@ -45,5 +45,8 @@
   },
   "styling": {
     "eyebrows": "section"
+  },
+  "interaction": {
+    "drilldown": false
   }
 }
