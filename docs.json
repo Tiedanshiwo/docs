@@ -36,6 +36,12 @@
       {
         "group": "GearUpHiker",
         "pages": [
+          "index"
+        ]
+      },
+      {
+        "group": "GearUpHiker",
+        "pages": [
           "index",
           "quickstart"
         ]
