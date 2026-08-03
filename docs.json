@@ -20,6 +20,12 @@
     ],
     "groups": [
       {
+        "group": "Getting Started",
+        "pages": [
+          "quickstart"
+        ]
+      },
+      {
         "group": "GearUpHiker",
         "hidden": true,
         "expanded": true,
