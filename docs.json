@@ -18,49 +18,12 @@
         ]
       }
     ],
-    "groups": [
+    "anchors": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "quickstart"
-        ]
-      },
-      {
-        "group": "GearUpHiker",
-        "hidden": true,
-        "expanded": true,
+        "anchor": "Getting Started",
         "pages": [
           "index",
           "quickstart"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": []
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "quickstart"
-        ]
-      },
-      {
-        "group": "GearUpHiker",
-        "pages": [
-          "index"
-        ]
-      },
-      {
-        "group": "GearUpHiker",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          ""
         ]
       }
     ]
